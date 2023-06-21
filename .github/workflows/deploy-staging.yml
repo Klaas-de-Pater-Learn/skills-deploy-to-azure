@@ -5,7 +5,7 @@ on:
     types: [labeled]
 env:
   IMAGE_REGISTRY_URL: ghcr.io
-  DOCKER_IMAGE_NAME: Klaas-de-Pater-Learn-azure-ttt
+  DOCKER_IMAGE_NAME: Klaas-de-Pater-azure-ttt
   AZURE_WEBAPP_NAME: Klaas-de-Pater-Learn-ttt-app
 
 jobs:
