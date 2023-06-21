@@ -8,6 +8,7 @@ module.exports = {
     ],
   },
   output: {
+    hashFunction: "sha256",
     filename: "main.js",
     path: path.resolve(__dirname, "../public"),
   },
